@@ -1,16 +1,11 @@
-# play_store
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-01-19-12-55-52-92_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651377-b068679e-e4ff-4122-be92-946d3f67b3f8.jpg)
+![Screenshot_2023-01-19-12-56-05-47_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651392-d3cfd59d-da04-4535-bc83-73737d3dc621.jpg)
+![Screenshot_2023-01-19-12-56-10-17_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651415-d14f6f17-d87b-4c17-910a-a477a8411867.jpg)
+![Screenshot_2023-01-19-12-56-13-59_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651478-95bde39c-ff6b-4686-bf07-3c69dc04a2ac.jpg)
+![Screenshot_2023-01-19-12-56-17-96_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651499-cb945427-df4b-4672-a892-e7a10409d29f.jpg)
+![Screenshot_2023-01-19-12-57-32-69_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651514-032404d5-5b3b-48b9-8303-6c10511313b6.jpg)
+![Screenshot_2023-01-19-12-57-41-00_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651532-0715c0eb-e4a7-48d3-b15e-20f8f90c1d5f.jpg)
+![Screenshot_2023-01-19-12-57-50-10_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651551-dbd5ec08-299a-43d8-af33-cb599153f8aa.jpg)
+![Screenshot_2023-01-19-12-57-53-76_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651566-91644035-2b00-4cd7-9b1d-4bb12b8c97fb.jpg)
+![Screenshot_2023-01-19-13-03-51-51_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651612-48c567d9-b724-4853-8eeb-255521022f5d.jpg)
+![Screenshot_2023-01-19-12-55-29-23_cbfb90ff814b5db5110217288c8a935e](https://user-images.githubusercontent.com/121867953/213651716-3ea81a0d-41ca-4456-824a-2c4c47e498f7.jpg)
